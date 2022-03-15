@@ -1,0 +1,55 @@
+#include<stdio.h>
+int swap(int*,int*);
+int main()
+{
+	int a=10,b=5;
+	printf("The nos are\na-%d\nb-%d\n", a, b);
+	swap(&a,&b);
+	printf("The nos are\na-%d\nb-%d\n",a,b);
+	return 0;
+}
+int swap(int *a,int *b)
+{
+	*a=*a^*b;
+	*a=*b;	
+	*b=tmp;
+}
+
+
+#define setbit(a, n)
+i=1;
+i=i<<n;
+int ans=(a | i)
+
+
+
+int arr[1024];
+printf("%d",arr[n]);
+printf("%d",*(&arr[0]+n));
+
+
+
+1.curr=head; count=0; 
+2. while(curr!=null)
+	count++;
+	curr=curr.next;
+3. ind=count-n;
+
+
+1. curr=head; count=0;
+2. vector<>; 
+2. while(curr!=null)
+	count++;
+	curr=curr.next;
+3. ind=count-n;
+
+
+
+printevenorodd(float a)
+{
+	if((a1)!=0)
+		printf("odd");
+	else
+		printf("even");
+}
+
