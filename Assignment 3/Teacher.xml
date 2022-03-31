@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<teacherlist>
+<teacher>
+<name>Rahul Pitale</name>
+<id>101</id>
+<class>TE CO</class>
+</teacher>
+<teacher>
+<name>Renu Kachoria</name>
+<id>102</id>
+<class>TE IT</class>
+</teacher>
+<teacher>
+<name>Rajesh Lomte</name>
+<id>103</id>
+<class>TE IT</class>
+</teacher>
+<teacher>
+<name>Srinivas Ambala</name>
+<id>104</id>
+<class> TE CO</class>
+</teacher>
+<teacher>
+<name>Asmita Manna</name>
+<id>105</id>
+<class> SE CO</class>
+</teacher>
+</teacherlist>
