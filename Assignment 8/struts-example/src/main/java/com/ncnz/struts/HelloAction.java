@@ -13,7 +13,7 @@ public class HelloAction {
 	private String uname;
 	private String password;
 	public String execute() {
-		if(uname.equals("mohini") && password.equals("1234"))
+		if(uname.equals("pratik") && password.equals("1234"))
 		{
 			return "success";
 		}
